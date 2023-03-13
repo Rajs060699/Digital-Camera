@@ -1,0 +1,10 @@
+../Core/Src/I2C.c:19:7:I2C_Clock_High	8	static
+../Core/Src/I2C.c:29:7:I2C_Clock_Low	8	static
+../Core/Src/I2C.c:39:7:I2C_Data_High	8	static
+../Core/Src/I2C.c:49:7:I2C_Data_Low	8	static
+../Core/Src/I2C.c:59:6:I2C_Start	8	static
+../Core/Src/I2C.c:76:6:I2C_Stop	8	static
+../Core/Src/I2C.c:92:6:I2C_NoACK	8	static
+../Core/Src/I2C.c:109:6:I2C_ACK	8	static
+../Core/Src/I2C.c:128:9:I2C_Write_Byte	24	static
+../Core/Src/I2C.c:169:9:I2C_Read_Byte	16	static
