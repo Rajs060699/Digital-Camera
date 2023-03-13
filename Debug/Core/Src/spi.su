@@ -1,6 +1,0 @@
-../Core/Src/spi.c:38:9:SPI1_ReadWriteByte	16	static
-../Core/Src/spi.c:53:6:DMA1_RX	16	static
-../Core/Src/spi.c:69:6:SendbyUSART1	16	static
-../Core/Src/spi.c:101:6:SingleCapTransfer	8	static
-../Core/Src/spi.c:120:6:Start_JPEG_Capture	48	static
-../Core/Src/spi.c:176:6:DMA1_Channel2_IRQHandler	8	static
